@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.yuemi.org/yuemi/YueMi-Banner-Dark.png" width="320" alt="YueMi Logo"/>
+  <img src="https://cdn.yuemi.org/yuemi/logo-v2/side/colored-side.png" width="320" alt="YueMi Logo"/>
 </p>
 
 <p align="center">
